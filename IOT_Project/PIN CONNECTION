@@ -1,0 +1,15 @@
+Components and Connections
+DHT11 Sensor
+    VCC: Connect to 5V on Arduino.
+    GND: Connect to GND on Arduino.
+    DATA: Connect to digital pin 2 on Arduino.
+
+
+Heart Rate Sensor
+    VCC: Connect to 3V on Arduino.
+    GND: Connect to GND on Arduino.
+    OUTPUT: Connect to analog pin A0 on Arduino.
+
+NTC MF72 10D20 Sensor
+    VCC: Connect to 5V on Arduino.
+    OUTPUT: Connect to analog pin A1 on Arduino.
