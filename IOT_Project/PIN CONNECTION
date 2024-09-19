@@ -11,5 +11,5 @@ Heart Rate Sensor
     OUTPUT: Connect to analog pin A0 on Arduino.
 
 NTC MF72 10D20 Sensor
-    VCC: Connect to 5V on Arduino.
+    VCC: Connect to 3V on Arduino.
     OUTPUT: Connect to analog pin A1 on Arduino.
