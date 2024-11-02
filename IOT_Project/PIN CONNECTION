@@ -13,3 +13,9 @@ Heart Rate Sensor
 NTC MF72 10D20 Sensor
     VCC: Connect to 3V on Arduino.
     OUTPUT: Connect to analog pin A1 on Arduino.
+
+MAX30100 Pulse Oximeter
+   VIN: Connect to 3.3V on the Arduino.
+   GND: Connect to GND on the Arduino.
+   SCL: Connect to SCL on the Arduino (A5 on most boards)
+   SDA: Connect to SDA on the Arduino (A4 on most boards)
